@@ -1,0 +1,55 @@
+// Advertisements 0.5
+// by Tsunami
+// 
+// Types
+// -----
+// C: Center message
+// H: Hint message
+// M: Menu message
+// S: Say message
+//    - Colors:  {DEFAULT}, {TEAM}, {GREEN}, {LIGHTGREEN}
+//    - Example: {GREEN}Current {LIGHTGREEN}Map: {DEFAULT}{CURRENTMAP}
+// T: Top message
+//    - Colors:  {WHITE},  {RED},  {GREEN}, {BLUE}, {YELLOW}, {PURPLE}, {CYAN},
+//               {ORANGE}, {PINK}, {OLIVE}, {LIME}, {VIOLET}, {LIGHTBLUE}
+//    - Example: {ORANGE} www.domain.com
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "type" "H"
+        "text" "[<o>] NacaoBR"
+    }
+    "2"
+    {
+        "type" "S"
+        "text" "{GREEN} Seja Bem vindo!!! {DEFAULT}Voce esta em um servidor do grupo {LIGHTGREEN}[<o>] NacaoBR"
+    }
+     "3"
+    {
+        "type" "H"
+        "text" "[<o>] NacaoBR"
+    }
+    "4"
+    {
+        "type" "S"
+        "text" "{LIGHTGREEN}Entre para o grupo: {GREEN}http://steamcommunity.com/groups/NacaoBR {LIGHTGREEN} e faca parte de nossa comunidade"
+    }
+     "5"
+    {
+        "type" "H"
+        "text" "[<o>] NacaoBR"
+    }
+    "6"
+    {
+        "type" "S"
+        "text" "{LIGHTGREEN}[Promod/Hunters] - {DEFAULT}Utilize o comando {GREEN}!match {DEFAULT}para outras modalidades de jogo e o comando {GREEN}!rmatch {DEFAULT}para retornar ao modo padrao"
+    }
+}

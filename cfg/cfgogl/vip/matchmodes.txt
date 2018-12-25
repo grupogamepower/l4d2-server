@@ -1,0 +1,103 @@
+"MatchModes"
+{
+
+    "ProMod Configs"
+    {
+        "promod"
+        {
+            "Name" "Pro Mod"
+        }
+	"pmlex"
+        {
+            "Name" "Pro Mod Opcional[<o>]"
+        }
+        "pm3v3"
+        {
+            "Name" "Pro Mod 3v3"
+        }
+        "pm2v2"
+        {
+            "Name" "Pro Mod 2v2"
+        }
+        "pm1v1"
+        {
+            "Name" "Pro Mod 1v1"
+        }
+        "reflux"
+        {
+            "Name" "Reflux"
+        }
+        "retro"
+        {
+            "Name" "Retro"
+        }
+        "pmredtown"
+        {
+            "Name" "PromodRedtown"
+        }
+        "sky"
+        {
+            "Name" "Sky 2.7.1"
+        }
+    }
+
+    "Hunters Configs"
+    {
+        "hunters"
+        {
+            "Name" "Hunters 4v4"
+        }
+        "hunters3v3"
+        {
+            "Name" "Hunters 3v3"
+        }
+        "hunters2v2"
+        {
+            "Name" "Hunters 2v2"
+        }
+        "hunters1v1"
+        {
+            "Name" "Hunters 1v1"
+        }
+        "deadman"
+        {
+            "Name" "Deadman"
+        }
+    }
+
+    "Witch Party Configs"
+    {
+        "witchparty"
+        {
+            "Name" "Witch Party!"
+        }
+        "witchpartyhc"
+        {
+            "Name" "Witch Party! HardCore"
+        }
+        "witchparty3v3"
+        {
+            "Name" "Witch Party 3v3"
+        }
+        "witchparty2v2"
+        {
+            "Name" "Witch Party 2v2"
+        }
+        "witchparty1v1"
+        {
+            "Name" "Witch Party 1v1"
+        }
+    }
+
+    "Practiceogl Configs"
+    {
+        "4v4practiceogl"
+        {
+            "Name" "4v4 Practiceogl"
+        }
+        "1v1practiceogl"
+        {
+            "Name" "1v1 Practiceogl"
+        }
+    }
+}

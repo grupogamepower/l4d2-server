@@ -1,0 +1,29 @@
+//  = 0x01 (WHITE)
+//  = 0x02 (WHITE)
+//  = 0x03 (LIGHTGREEN)
+//  = 0x04 (YELLOW)
+//  = 0x05 (GREEN)
+
+"Phrases"
+{
+	"ShowHintMessage"
+	{
+		"en"		"Comandos para mudar de time: !js, !ji ,!s e !matar ou !kill"
+	}
+	"MensagemInfectados"
+	{
+		"en"		"[<o>] NacaoBR => Voce precisa estar no time dos infectados para se matar"
+	}
+	"Mensagemsobreviventes"
+	{
+		"en"		"[<o>] NacaoBR => Voce precisa estar no time dos sobreviventes para se matar"
+	}
+	"Mensagemnaopermitida"
+	{
+		"en"		"[<o>] NacaoBR => Voce nao possui permicao para se matar nesse servidor"
+	}
+  "Mensagemchat"
+	{
+		"en"		"[<o>] NacaoBR => Se voce estiver de spec digite !js para entrar!"
+	}
+}

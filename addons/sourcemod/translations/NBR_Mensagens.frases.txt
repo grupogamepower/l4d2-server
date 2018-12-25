@@ -1,0 +1,33 @@
+//  = 0x01 (WHITE)
+//  = 0x02 (WHITE)
+//  = 0x03 (LIGHTGREEN)
+//  = 0x04 (YELLOW)
+//  = 0x05 (GREEN)
+
+"Phrases"
+{
+	"MensagemHint"
+	{
+		"en"		"[<o>] NacaoBR [<o>]"
+	}
+	"Mensagemchat"
+	{
+		"en"		"[<o>] NacaoBR => Bom jogo a todos ;)"
+	}
+"Mensagemchat1"
+	{
+		"en"		""
+	}
+"Mensagemchat2"
+	{
+		"en"		""
+	}
+"Mensagemchat3"
+	{
+		"en"		""
+	}
+"Mensagemchat4"
+	{
+		"en"		""
+	}
+}

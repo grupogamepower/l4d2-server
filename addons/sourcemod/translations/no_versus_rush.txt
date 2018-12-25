@@ -1,0 +1,11 @@
+"Phrases"
+{
+	"WaitPls"
+	{
+		"#format"		"{1:d}"
+		"en"			"[<o>] NacaoBR => Aguarde mais {1} segundos para sair da safe!"
+		"ru"			"????????? ??? {1} ??????"
+		"lv"			"Pagaidiet vel {1} sekundu(es)"
+		"se"			"Vänta {1} sekund till"
+	}
+}
